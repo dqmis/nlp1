@@ -3,3 +3,6 @@ sent_lexicon
 BOW.pt
 trainDevTestTrees_PTB.zip
 trees/
+*.txt
+*.pt
+wandb
