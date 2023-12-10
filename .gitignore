@@ -6,3 +6,4 @@ trees/
 *.txt
 *.pt
 wandb
+.ipynb_checkpoints/
